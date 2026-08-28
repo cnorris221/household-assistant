@@ -1,8 +1,8 @@
-# Household Assistant Privacy Policy
+# Household Manager Privacy Policy
 
 Last updated: August 21, 2026
 
-Household Assistant is a software application that provides automated household-management and messaging services to registered, explicitly authorized users.
+Household Manager is a software application that provides automated household-management and messaging services to registered, explicitly authorized users.
 
 ## Information We Collect
 
@@ -28,4 +28,4 @@ Users may reply STOP at any time to stop receiving SMS messages. Users may reply
 
 ## Contact
 
-Questions regarding this privacy policy may be directed to the operator of Household Assistant.
+Questions regarding this privacy policy may be directed to the operator of Household Manager.
