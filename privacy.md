@@ -2,7 +2,7 @@
 
 Last updated: August 21, 2026
 
-Household Assistant is a private personal assistant service used by the owner and explicitly authorized users.
+Household Assistant is a software application that provides automated household-management and messaging services to registered, explicitly authorized users.
 
 ## Information We Collect
 
@@ -16,7 +16,7 @@ Message frequency varies based on user interaction. Message and data rates may a
 
 ## How Information Is Used
 
-Information is used solely to provide requested personal assistant functions, such as responding to messages, reminders, scheduling, and other tasks requested by authorized users.
+Information is used solely to provide requested application functions, such as responses to user requests, reminders, scheduling and calendar services, and task notifications.
 
 ## Data Sharing
 
